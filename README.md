@@ -1,7 +1,7 @@
 # Business & Financial Performance Analysis
 
 **Developed by:** Santhi Swaroop  
-**University:** GIET University
+**University:** GIET University 
 **LinkenIn URL:** https://www.linkedin.com/in/sanchana-santhiswaroop-60649041b/
 
 
