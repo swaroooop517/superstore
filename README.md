@@ -1,9 +1,14 @@
 # Business & Financial Performance Analysis
 
-## Project Overview
-This project analyses retail sales data to evaluate business performance, profitability, customer segments, and regional sales trends.
+**Developed by:** Santhi Swaroop  
+**University:** GIET University
+**LinkenIn URL:** https://www.linkedin.com/in/sanchana-santhiswaroop-60649041b/
 
-## Objectives
+
+## Project Overview
+This project focuses on analysing retail sales data to evaluate business performance, profitability, customer segments, and regional sales trends.
+
+## Project Objectives
 - Analyse overall sales and profit performance.
 - Identify profitable and loss-making product categories.
 - Evaluate the impact of discounts on profitability.
@@ -14,7 +19,7 @@ This project analyses retail sales data to evaluate business performance, profit
 ## Dataset
 **Source:** Sample Superstore Dataset (Kaggle)
 
-The dataset includes order details, customer information, product categories, sales, quantity, discounts, and profit.
+The dataset contains order details, customer information, product categories, sales, quantity, discounts, and profit.
 
 ## Tools & Technologies
 - Microsoft Excel
@@ -29,5 +34,14 @@ The dataset includes order details, customer information, product categories, sa
 - Total Quantity Sold
 - Average Discount
 
+## Project Repository
+https://github.com/swaroooop517/superstore
+
+## Live Project
+https://swaroooop517.github.io/superstore/
+
+## LinkedIn
+[Add your LinkedIn profile URL here]
+
 ## Project Status
-Work in progress.
+Work in Progress.
